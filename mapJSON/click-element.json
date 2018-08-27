@@ -1,0 +1,52 @@
+{
+  "HABERH":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/slider_item_image"
+    }
+  },
+  "CATLISTBUTTONHURRIYET":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/header_all_categories"
+    }
+  },
+  "HABERH2":{
+    "ANDROID":{
+      "xpath":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.view.View/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.ImageView"
+    }
+  },
+  "COMMENTSHURRIYET":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/news_detail_comments"
+    }
+  },
+  "TWITTERSHAREHURRIYET":{
+    "ANDROID": {
+      "xpath": "(//android.view.View[@content-desc=''])[3]"
+    }
+  },
+  "TWITTERLOGINANDTWEET":{
+    "ANDROID":{
+      "xpath":"//android.widget.Button[@content-desc='Giriş yap ve Tweetle']"
+    }
+  },
+  "NEWBUTTON":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/slider_gallery_image_0"
+    }
+  },
+  "ALLPHOTOS":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/photo_gallery_open_grid"
+    }
+  },
+  "CLOSEGALLERY":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/photo_gallery_close"
+    }
+  },
+  "SHAREBUTTON":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/photo_gallery_share"
+    }
+  }
+}

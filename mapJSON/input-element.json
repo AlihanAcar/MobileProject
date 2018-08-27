@@ -1,0 +1,18 @@
+{
+  "TWITTEREMAIL":{
+    "ANDROID":{
+      "id":"username_or_email"
+    },
+    "IOS":{
+      "id":"username_or_email"
+    }
+  },
+  "TWITTERPASSWORD": {
+    "IOS": {
+      "id": "password"
+    },
+    "ANDROID": {
+      "id": "password"
+    }
+  }
+}

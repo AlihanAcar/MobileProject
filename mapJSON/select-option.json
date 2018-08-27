@@ -1,0 +1,12 @@
+{
+  "CATLISTHURRIYET":{
+    "ANDROID":{
+      "xpath":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout"
+    }
+  },
+  "PHOTOSLISTHURRIYET":{
+    "ANDROID":{
+      "xpath":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.View/android.widget.RelativeLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout"
+    }
+  }
+}

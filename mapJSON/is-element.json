@@ -1,0 +1,17 @@
+{
+  "SWIPEDENEME":{
+    "ANDROID":{
+      "xpath":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout[1]/android.view.View/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.ImageView"
+    }
+  },
+  "COMMENTSHURRIYET":{
+    "ANDROID":{
+      "id":"hurriyet.mobil.android:id/news_detail_comments"
+    }
+  },
+  "TWITTERSHAREHURRIYET":{
+    "ANDROID":{
+      "xpath":"(//android.view.View[@content-desc=''])[3]"
+    }
+  }
+}
